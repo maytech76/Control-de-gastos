@@ -1,0 +1,16 @@
+Video 108 - Diseñando una alerta si el monto del presupuesto es errado <=0
+       1) Creamos un componente llamado Alerta (Template - Style)
+
+Video 109 PROXIMA CLASE****
+
+
+19-01-2024
+Video 114 PROXIMA CLASE *****AÑADIENDO BOTON ADD GASTOS****
+
+
+22-01-2024
+Video 127 PROXIMA CLASE ****** MOSTRAR LOS GATOS INSERTADOS ******
+
+
+24-01-2024
+Video 143 PROXIMA CLASE ****** MOSTRAR LOS GATOS INSERTADOS ******
